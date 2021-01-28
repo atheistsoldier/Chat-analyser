@@ -15,7 +15,7 @@
   2. pip install ipython nbformat
   3. ipython
   4. %run chat.ipynb
-  5. The programs and stores the images in the same directory
+  The programs and stores the images in the same directory
     
   
 
