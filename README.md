@@ -1,6 +1,6 @@
 # Chat-analyser(Still under construction)
 
-<h3>Steps to use:</h3>
+<h3><strong>Steps to use:</strong></h3>
   
   1. First clone this repositor
   2.  Export your what's app chat group and save it on you local system
