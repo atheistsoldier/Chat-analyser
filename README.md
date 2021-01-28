@@ -2,19 +2,17 @@
 
 <h3>Steps to use:
   <li>
-    <ul> First clone this repository</ul>
-    <ul>
+    <ol> First clone this repository</ol>
+    <ol> Export your what's app chat group and save it on you local system</ol>
+    <ol>Install [python](https://www.python.org/downloads)(select "Add Python X.X to PATH")</ol>
+    <ol># Type the following commands:</ol>
+    <ol>python -m pip install --upgrade pip</ol>
+    <ol>pip install ipython nbformat</ol>
+    <ol>ipython</ol>
+    <ol>%run chat.ipynb</ol>
+    <ol>The programs and stores the images in the same directory</ol>
     
   </li>
 
-2. Export your what's app chat group and save it on you local system
-3. Install [python](https://www.python.org/downloads)(select "Add Python X.X to PATH")
-4. Type the following commands:
-  i.python -m pip install --upgrade pip
-  ii.pip install ipython
-  iii. pip install nbformat
-  iv. ipython
-  v. %run chat.ipynb
-  vi. The programs and stores the images in the same directory
-  vii. Press CTRL+D to exit
+ Press CTRL+D to exit
  </h3>
