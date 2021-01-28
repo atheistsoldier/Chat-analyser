@@ -1,7 +1,12 @@
 # Chat-analyser(Still under construction)
 
 <h3>Steps to use:
-1. First clone this repository
+  <li>
+    <ul> First clone this repository</ul>
+    <ul>
+    
+  </li>
+
 2. Export your what's app chat group and save it on you local system
 3. Install [python](https://www.python.org/downloads)(select "Add Python X.X to PATH")
 4. Type the following commands:
