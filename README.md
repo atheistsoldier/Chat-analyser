@@ -15,9 +15,8 @@
   2. pip install ipython nbformat
   3. ipython
   4. %run chat.ipynb
-  The programs and stores the images in the same directory
-    
+  
   
 
- Press CTRL+D to exit
+ The programs runs and stores the images in the same directory. Press CTRL+D to exit.
  
