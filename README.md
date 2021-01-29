@@ -15,8 +15,11 @@
   python -m pip install --upgrade pip
   pip install ipython nbformat
   ipython
-  %run chat.ipynb
   ```
+  Within the ipython notebook:
+  
+  `%run chat.ipynb`
+ 
   
   
 
