@@ -12,10 +12,10 @@
    <h3><strong>Then type the following commands </strong></h3>
   
  ```  
-  1. python -m pip install --upgrade pip
-  2. pip install ipython nbformat
-  3. ipython
-  4. %run chat.ipynb
+  python -m pip install --upgrade pip
+  pip install ipython nbformat
+  ipython
+  %run chat.ipynb
   ```
   
   
